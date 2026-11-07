@@ -9,7 +9,7 @@ Read the founding invitation: [An Invitation to Research Human–AI Symbiosis](h
 ## Start here
 
 - [Choose a first contribution](START-HERE.md): bounded tasks for different backgrounds.
-- [Research work board](https://github.com/orgs/Lifefable/projects/1): open contributions across the program and its experiment repositories.
+- [Research work board](https://github.com/orgs/Lifefable/projects/1/views/2): open contributions across the program and its experiment repositories.
 - [Research program](docs/research-program.md): the five tracks and the causal questions connecting them.
 - [Experiments and repositories](docs/experiments.md): the central directory of proposed studies, implementation access and evidence records.
 - [Contributing](CONTRIBUTING.md): how to propose work, agree terms and preserve a useful research record.
