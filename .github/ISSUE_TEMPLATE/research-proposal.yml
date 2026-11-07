@@ -1,0 +1,36 @@
+name: Research proposal or counterexample
+description: Propose one bounded question, reference comparison or counterexample.
+title: "[Proposal] "
+labels: [research-proposal]
+body:
+  - type: markdown
+    attributes:
+      value: "A short, specific proposal is enough. Use public or authorized material; arrange access and contribution terms before substantial work."
+  - type: textarea
+    id: question
+    attributes:
+      label: Question and research track
+      description: State the claim to investigate and the observation that would matter.
+    validations:
+      required: true
+  - type: textarea
+    id: prior-work
+    attributes:
+      label: Closest existing work
+      description: Link the relevant paper, model or result. Say whether you propose adoption, replication, criticism or an extension.
+    validations:
+      required: true
+  - type: textarea
+    id: contribution
+    attributes:
+      label: Small first contribution
+      description: Specify the artifact, starting material, access needed and a useful completion criterion. Code is optional.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives and rejection condition
+      description: Which competing explanation or negative result would narrow the claim?
+    validations:
+      required: true

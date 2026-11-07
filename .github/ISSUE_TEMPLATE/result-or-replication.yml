@@ -1,0 +1,26 @@
+name: Result or replication
+description: Report a finding, failed expectation or independent reproduction with evidence.
+title: "[Result] "
+labels: [result]
+body:
+  - type: textarea
+    id: claim
+    attributes:
+      label: Claim and status
+      description: State the question, outcome and whether this is a proposed study, software check, model result or participant study.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and reproduction
+      description: Link a repository and pinned revision, configuration, methods, outcomes and reproduction instructions. See docs/experiment-template.md for the complete evidence record.
+    validations:
+      required: true
+  - type: textarea
+    id: limits
+    attributes:
+      label: Alternatives, failures and limitations
+      description: Include negative findings and the limits of what this result establishes. A passing software test is not a demonstrated human benefit.
+    validations:
+      required: true
