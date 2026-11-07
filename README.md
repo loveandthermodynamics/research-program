@@ -12,6 +12,7 @@ Read the founding invitation: [An Invitation to Research Human–AI Symbiosis](h
 - [Research work board](https://github.com/orgs/loveandthermodynamics/projects/1/views/2): open contributions across the program and its experiment repositories.
 - [Research program](docs/research-program.md): the five tracks and the causal questions connecting them.
 - [Experiments and repositories](docs/experiments.md): the central directory of proposed studies, implementation access and evidence records.
+- [Research experiment archive](https://github.com/loveandthermodynamics/research-experiments): recovered historical work, five topic digests, exploratory scripts and reproduction conditions.
 - [Contributing](CONTRIBUTING.md): how to propose work, agree terms and preserve a useful research record.
 - [Experiment template](docs/experiment-template.md): a specification and evidence record to copy for a study.
 - [References](docs/references.md): the invitation and its linked primary literature.
@@ -34,7 +35,9 @@ The invitation reports a philosophical corpus, a protocol, prototype code, condi
 
 The immediate physical task is a claim-and-prior-art matrix and reconstruction of a relevant published result. The immediate software task is to make Hestia a trustworthy experimental harness before interpreting its outputs scientifically. [The directory](docs/experiments.md) keeps these starting points separate.
 
-This hub contains coordination and research documents. Hestia implementation access and reuse terms are agreed separately; its code is currently private.
+This hub coordinates the program and new contributions. The separate [research-experiments archive](https://github.com/loveandthermodynamics/research-experiments) records historical calculations, model studies, implementation checks and proposed designs, with their methods and limits. Its [catalogue](https://github.com/loveandthermodynamics/research-experiments/blob/main/CATALOGUE.md) distinguishes evidence records from completed experiments; its [reproduction guide](https://github.com/loveandthermodynamics/research-experiments/blob/main/REPRODUCING.md) explains what can be checked from the public files.
+
+Standalone exploratory scripts are available for inspection under their retained source notices; the archive adds no new license. Full Hestia runtime code and bulk raw histories are not included. Runtime access and unresolved reuse terms are agreed separately.
 
 ## Discussion and research records
 

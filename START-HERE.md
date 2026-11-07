@@ -4,6 +4,8 @@
 
 Begin with one question and a small deliverable. You do not need to adopt the whole program or have access to Hestia code to contribute.
 
+To build on existing work, start with the [historical experiment catalogue](https://github.com/loveandthermodynamics/research-experiments/blob/main/CATALOGUE.md) or the [five topic digests](docs/experiments.md#result-directory). They distinguish saved results, failed comparisons, conditional proofs and proposed studies. The [reproduction guide](https://github.com/loveandthermodynamics/research-experiments/blob/main/REPRODUCING.md) explains which checks use standalone public scripts and which require private Hestia access or omitted raw histories.
+
 ## Choose an entry point
 
 | Starting contribution | Useful background | First deliverable | What makes it useful |
@@ -31,6 +33,6 @@ A short proposal is enough. There is no need to commit to a larger study before 
 
 ## Before substantial work
 
-Use [Contributing](CONTRIBUTING.md) to agree scope, credit, access, reuse and any compensation. Hestia code is available by agreement; a public discussion does not confer access to private implementation or research records.
+Use [Contributing](CONTRIBUTING.md) to agree scope, credit, access, reuse and any compensation. Public exploratory scripts retain their original rights notices without a new license. Full Hestia runtime access is agreed separately; a public discussion does not confer access to private implementation or research records.
 
 For a proposed experiment, copy the [experiment template](docs/experiment-template.md). Record its initial status as proposed, link the discussion and register it in the directory when its scope and owner are agreed.
