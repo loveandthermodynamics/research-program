@@ -9,7 +9,7 @@ Read the founding invitation: [An Invitation to Research Human–AI Symbiosis](h
 ## Start here
 
 - [Choose a first contribution](START-HERE.md): bounded tasks for different backgrounds.
-- [Research work board](https://github.com/orgs/Lifefable/projects/1/views/2): open contributions across the program and its experiment repositories.
+- [Research work board](https://github.com/orgs/loveandthermodynamics/projects/1/views/2): open contributions across the program and its experiment repositories.
 - [Research program](docs/research-program.md): the five tracks and the causal questions connecting them.
 - [Experiments and repositories](docs/experiments.md): the central directory of proposed studies, implementation access and evidence records.
 - [Contributing](CONTRIBUTING.md): how to propose work, agree terms and preserve a useful research record.
@@ -38,14 +38,14 @@ This hub contains coordination and research documents. Hestia implementation acc
 
 ## Discussion and research records
 
-The Discourse research forum is being configured; its link will appear here. Until then, start a question through the [issue chooser](https://github.com/Lifefable/research-program/issues/new/choose). The forum will be the home for developing questions and interpreting work. Use this hub's issues for a defined contribution and pull requests for proposed document changes. Link a discussion to its study record so the question, method, artifacts and interpretation remain connected.
+The [Discourse research forum](https://love-and-thermodynamics.discourse.group/) is the home for developing questions and interpreting work. Use this hub's [issue chooser](https://github.com/loveandthermodynamics/research-program/issues/new/choose) for a defined contribution and pull requests for proposed document changes. Link a discussion to its study record so the question, method, artifacts and interpretation remain connected.
 
 Before substantial work, agree scope, credit, access and reuse terms, including any compensation. A reference or a well-specified question is enough to begin.
 
 ## Three tasks ready for a first response
 
-- [Compare two accounts of individuality on one case](https://github.com/Lifefable/research-program/issues/1).
-- [Specify a fair independent-self prediction baseline](https://github.com/Lifefable/research-program/issues/2).
-- [Find a remaining failure in the cooperative care case](https://github.com/Lifefable/research-program/issues/3).
+- [Compare two accounts of individuality on one case](https://github.com/loveandthermodynamics/research-program/issues/1).
+- [Specify a fair independent-self prediction baseline](https://github.com/loveandthermodynamics/research-program/issues/2).
+- [Find a remaining failure in the cooperative care case](https://github.com/loveandthermodynamics/research-program/issues/3).
 
 These are proposed contributions with bounded first deliverables, not claims of completed experiments. Reply to the relevant issue to discuss a starting point.

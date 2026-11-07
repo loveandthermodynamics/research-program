@@ -8,7 +8,7 @@ This is the central directory for study proposals, their implementations and the
 
 | Resource | Role | Access and evidence status |
 | --- | --- | --- |
-| [Lifefable/research-program](https://github.com/Lifefable/research-program) | This coordination hub: questions, literature comparisons, study specifications and links to evidence. | Public-facing hub documents; no runtime code or datasets are included in this initial document set. |
+| [loveandthermodynamics/research-program](https://github.com/loveandthermodynamics/research-program) | This coordination hub: questions, literature comparisons, study specifications and links to evidence. | Public-facing hub documents; no runtime code or datasets are included in this initial document set. |
 | Hestia implementation | Agent architecture and research harness described in the invitation. | Code is currently private. Access and reuse terms are agreed separately; no implementation URL or access entitlement is implied here. |
 | Physical models and research record | Conditional mathematical work, maintenance/renewal studies and saved negative results reported in the invitation. | Underlying artifacts are not reproduced here. Link an authorized record when registering a study and state what a reader can inspect. |
 | [Research forum](../README.md#discussion-and-research-records) | Developing questions, collaborator discussions and interpretation. | Link a relevant topic to the issue and study record; forum discussion alone does not establish an experimental result. |
