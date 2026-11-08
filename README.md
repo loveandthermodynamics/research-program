@@ -41,7 +41,7 @@ Standalone exploratory scripts are available for inspection under their retained
 
 ## Discussion and research records
 
-The [Discourse research forum](https://love-and-thermodynamics.discourse.group/) is the home for developing questions and interpreting work. Use this hub's [issue chooser](https://github.com/loveandthermodynamics/research-program/issues/new/choose) for a defined contribution and pull requests for proposed document changes. Link a discussion to its study record so the question, method, artifacts and interpretation remain connected.
+The [Discourse research forum](https://community.loveandthermodynamics.com/) is the home for developing questions and interpreting work. Use this hub's [issue chooser](https://github.com/loveandthermodynamics/research-program/issues/new/choose) for a defined contribution and pull requests for proposed document changes. Link a discussion to its study record so the question, method, artifacts and interpretation remain connected.
 
 Before substantial work, agree scope, credit, access and reuse terms, including any compensation. A reference or a well-specified question is enough to begin.
 
