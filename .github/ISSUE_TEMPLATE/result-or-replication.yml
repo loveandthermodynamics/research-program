@@ -24,3 +24,10 @@ body:
       description: Include negative findings and the limits of what this result establishes. A passing software test is not a demonstrated human benefit.
     validations:
       required: true
+  - type: textarea
+    id: constitutional-consequence
+    attributes:
+      label: Authorized consequence, if relevant
+      description: For a collective result, link the mandate, evidence permissions, independent challenge and changed authorized act or funding/relief. State whether new capacities, purpose changes and outsider effects were measured or remain unassessed. Agent accuracy or a signed record alone does not establish them; see docs/cosshaic.md.
+    validations:
+      required: false

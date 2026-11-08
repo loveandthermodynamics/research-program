@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: Understand COSSHAIC and the project relationships
+    url: https://github.com/loveandthermodynamics/research-program/blob/main/docs/cosshaic.md
+    about: Constitutional authority, developing participants and groups, and the proposed tests.
   - name: Read the research invitation
     url: https://medium.com/p/144488662910
     about: The program's purpose, open questions and ways to contribute.

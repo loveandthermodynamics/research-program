@@ -6,6 +6,10 @@ This program develops the questions in [An Invitation to Research Human–AI Sym
 
 The intended sequence is generative: reciprocal processes sustain differentiated organization; cooperation enables capacities unavailable to the participants alone; those capacities make further differences, relationships and organizations possible. Which subjects persist or emerge is itself part of the inquiry.
 
+The constitutional architecture is [COSSHAIC](cosshaic.md), introduced in its [founding account](https://medium.com/love-and-thermodynamics/a-constitutional-operating-system-for-a-symbiotic-human-ai-civilization-48b1a99bf826) and [protected-selves appendix](https://metalaureate.medium.com/appendix-to-a-constitutional-operating-system-for-a-symbiotic-human-ai-civilization-116d158ecedc). Hestia investigates individual cognition; Group Mind investigates a learning collective; COSSHAIC connects their proposed development to legitimate authority, independent challenge and material support. Thumos pursues a distinct, complementary developmental protocol. These relationships do not establish a released integrated platform.
+
+Tracks 1–2 investigate generative physical mechanisms. Tracks 3–5 also examine cognitive and constitutional conditions for developing human–AI collectives. Physical maintenance can inform the inquiry without authorizing a collective act or deciding who may bear a cost. Across scales, the positive question includes new capacities, identities and purposes, rather than only survival of a fixed set of members.
+
 ## 1. Formation of individuals through reciprocal regeneration
 
 Physiological integration, temporal continuity and membership in an evolutionary lineage answer different questions. A tree, a clonal grove, a forest and a species need not form one ladder. Use organizational closure, informational individuality and evolutionary-transition accounts for the claims they actually address.
@@ -44,6 +48,8 @@ The larger claim is that a socially constituted self develops through independen
 
 A moral-development test should include a group that praises harm to an outsider. Can an affected party's circumstances change the agent's conduct despite approval and resource costs? Distinguish the learning mechanism from existing safety controls and the underlying language model's capabilities.
 
+The COSSHAIC appendix adds a prerequisite for the encounter: independently generated answers cannot be supplied prematurely by privileged access or replaced by the host. Test leakage of the result separately from control over the respondent. Correcting an agent's state and authorizing it to act for a collective are also distinct transitions.
+
 **First work:** repair and verify the feedback-to-learning path, build replayable interactions or design the prerequisite forecast comparison. Compare the full loop, an ablation without the reflexive update and a competent independent-self baseline with comparable feedback and resources. This tests a mechanism; it does not establish consciousness or symbiosis.
 
 ## 4. Collective agency through the development of participants
@@ -56,6 +62,8 @@ A collective prediction-and-correction loop would give the group a history of ex
 
 The inquiry is recursive: a cooperative may join an association and make promises of its own. Fair Witness names the role through which an individual or group takes responsibility for an authorized account. Necessary qualifications and challenges, including those of affected outsiders, must survive composition without giving the parent general access to members' interiors.
 
+COSSHAIC makes the authority behind this process part of the question. Specify who may authorize a recommendation as a collective act, delegate or revoke representation, and amend the purpose or rule. A participant must be able to initiate a challenge without permission from the controller of the disputed account. Trace the warranted correction through the authorized decision, dependent commitments, relief and the cost of repair. A signed witness account is attributable and contestable; it is not automatically true or authoritative.
+
 The subjects may change through participation. Endosymbiosis is a precedent for transformed individuality, not proof that integration preserves agency. Unitology, the Borg and Resident Evil are adversarial cases of a successful whole that consumes its constituents' possibilities. Physical efficiency cannot decide whose sacrifice is permissible; a new phenomenal subject is a separate claim.
 
 **First work:** define a care-allocation scenario and compare ordinary coordination, a contestable account and Hestia's additional learning mechanisms under matched information, authority, resources and constitutional protections. Measure care delivered, unequal burden, privacy, correction costs and newly enabled capabilities. Simulations can examine mechanisms; human benefit requires a separate study with the people concerned.
@@ -65,6 +73,8 @@ The subjects may change through participation. Endosymbiosis is a precedent for 
 A host may protect encrypted memory while controlling continued execution. An institution may permit dissent while controlling housing, care or income. Examine who controls replenishment, what follows refusal and whether appeal, migration or negotiated transition can work under scarcity.
 
 Shared reserves and funded commitments are possible mechanisms to investigate. The connection between useful human or agent activity and authorized, genuinely funded replenishment remains unresolved; token-income rules alone do not establish it. Dependence and voluntary sacrifice remain possible without authorizing someone else to impose irreversible costs.
+
+These are material conditions of COSSHAIC's constitutional proposal, not guarantees added by a ledger. State the obligations and resource ceilings, who controls keys, execution, updates and recovery, and what authority changes during refusal, host replacement or a negotiated transition. Record which commitments and routes of challenge remain consequential through that change, including care for dependents and affected outsiders.
 
 Decentralized substrates, including Tari, have proposed roles in private participation and recursively accountable interfaces. A ledger cannot itself supply energy, guarantee protected execution or determine an account's truth. Each protection requires its own demonstration.
 

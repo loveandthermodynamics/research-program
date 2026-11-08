@@ -6,11 +6,16 @@ This research hub connects physical regeneration and biodiversity with Hestia's 
 
 Read the founding invitation: [An Invitation to Research Human–AI Symbiosis](https://medium.com/p/144488662910).
 
+The constitutional proposal within this inquiry is **COSSHAIC**: how a group gains purposes, commitments and authority of its own while developing its participants and remaining answerable for care. Hestia investigates the individual agent's cognition; Group Mind investigates a learning collective; COSSHAIC connects those proposals to legitimate, revisable authority and material support. Thumos is a distinct proposed framework for continuing human–AI development, not an implemented constitutional integration.
+
+Read the [COSSHAIC architecture and study guide](docs/cosshaic.md), grounded in the [founding account](https://medium.com/love-and-thermodynamics/a-constitutional-operating-system-for-a-symbiotic-human-ai-civilization-48b1a99bf826) and [protected-selves appendix](https://metalaureate.medium.com/appendix-to-a-constitutional-operating-system-for-a-symbiotic-human-ai-civilization-116d158ecedc). These are published proposals with experimental components, not a released COSSHAIC platform or evidence of achieved symbiosis.
+
 ## Start here
 
 - [Choose a first contribution](START-HERE.md): bounded tasks for different backgrounds.
 - [Research work board](https://github.com/orgs/loveandthermodynamics/projects/1/views/2): open contributions across the program and its experiment repositories.
 - [Research program](docs/research-program.md): the five tracks and the causal questions connecting them.
+- [COSSHAIC](docs/cosshaic.md): the constitutional proposal, project roles and the path from a warranted challenge to an authorized changed act.
 - [Experiments and repositories](docs/experiments.md): the central directory of proposed studies, implementation access and evidence records.
 - [Research experiment archive](https://github.com/loveandthermodynamics/research-experiments): recovered historical work, five topic digests, exploratory scripts and reproduction conditions.
 - [Contributing](CONTRIBUTING.md): how to propose work, agree terms and preserve a useful research record.

@@ -47,6 +47,19 @@ Copy this document for a proposed study. Fill in the design before outcome compa
 - Allocation of runs or participants, randomization and replication plan:
 - Sample or run count, its rationale, exclusions and analysis plan:
 
+## Constitutional mechanism, when relevant
+
+For a human–AI or collective study, identify the [COSSHAIC source commitment](cosshaic.md) or alternative architecture being tested. For an unrelated physical calculation, mark this section not applicable.
+
+- Adopted purpose, rule and mandate; who may authorize, delegate, revoke or amend a collective act:
+- Evidence disclosure permissions and the scope of any witness's examination:
+- Affected members, dependent people and outsiders; challenge route independent of the disputed account's controller:
+- How a warranted correction changes an authorized act, subsequent obligations, repair or funded support:
+- Which qualifications and corrections travel to a parent or peer account, without general access to constituent interiors:
+- Resource controller, authorized funding and limits; what happens after refusal or during a hosting/membership transition:
+- Before/after participant and collective capacities; possible changes of identity, membership or purpose:
+- Constitutional protections held adequate and equal across comparison arms:
+
 ## Outcomes and scoring
 
 - Primary outcomes, definitions, units and time basis:
@@ -75,6 +88,7 @@ Copy this document for a proposed study. Fill in the design before outcome compa
 - Recorded model responses, model identifiers and interaction traces; replay method when live responses cannot be reproduced from a seed:
 - Outcome data, scoring inputs and analysis artifacts with checksums:
 - Trace of commitments, feedback, state changes, allocations or repair needed to support the claim:
+- Where relevant, the mandate/evidence/challenge-to-authorized-action and actual funding/replenishment trace:
 - Deviations from the specified design, failures and their effects on interpretation:
 - Actual costs and resource use:
 

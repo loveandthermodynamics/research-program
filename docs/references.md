@@ -4,6 +4,16 @@
 
 The public source for this initial hub is [An Invitation to Research Human–AI Symbiosis](https://medium.com/p/144488662910). The primary literature below is linked there. The descriptions identify the role given to each work in the invitation; they are not claims that this hub has independently reconstructed its results.
 
+## Architectural sources
+
+- [COSSHAIC's founding account](https://medium.com/love-and-thermodynamics/a-constitutional-operating-system-for-a-symbiotic-human-ai-civilization-48b1a99bf826) connects Hestia, Group Mind, constitutional authority and decentralized commitments, with reciprocal and recursive individuation as the positive ambition.
+- [Protected selves and distributed power](https://metalaureate.medium.com/appendix-to-a-constitutional-operating-system-for-a-symbiotic-human-ai-civilization-116d158ecedc) develops independent answers, bounded witnessing, challenges through successive groups, care, replenishment and limits on the host.
+- [The COSSHAIC study guide](cosshaic.md) maps those proposals to this hub's tracks, open tests and contribution routes. It is a current orientation, not another specification or an experimental validation.
+
+The architectural essays supply commitments and hypotheses. The scientific literature below supplies distinct results and methods; linking the two does not make the constitutional proposal a derived physical law.
+
+## Scientific starting points
+
 | Work | Role in the program | Question for a contribution |
 | --- | --- | --- |
 | [Organizational closure](https://montevil.org/publications/articles/2015-mm-organisation-closure-constraints/) | Constraints that depend on and help maintain one another. | Which dependencies must be generated and repaired in a constructive model? |

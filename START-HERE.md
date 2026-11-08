@@ -4,12 +4,15 @@
 
 Begin with one question and a small deliverable. You do not need to adopt the whole program or have access to Hestia code to contribute.
 
+For the constitutional work, begin with [COSSHAIC's role and proposed tests](docs/cosshaic.md). A useful first artifact is a short decision trace: who authorizes a group commitment, what bounded evidence can challenge it, and which subsequent assignment, funded support or promise must change. The collective's and participants' identities and purposes may develop; record what they can newly undertake, rather than assuming a fixed membership roster.
+
 To build on existing work, start with the [historical experiment catalogue](https://github.com/loveandthermodynamics/research-experiments/blob/main/CATALOGUE.md) or the [five topic digests](docs/experiments.md#result-directory). They distinguish saved results, failed comparisons, conditional proofs and proposed studies. The [reproduction guide](https://github.com/loveandthermodynamics/research-experiments/blob/main/REPRODUCING.md) explains which checks use standalone public scripts and which require private Hestia access or omitted raw histories.
 
 ## Choose an entry point
 
 | Starting contribution | Useful background | First deliverable | What makes it useful |
 | --- | --- | --- | --- |
+| **Trace a constitutional decision** | Cooperatives, institutional design, law, governance, software state transitions | One care-case trace naming the mandate, evidence permissions, authorized decision, independent challenge and changed work/support. | Show who can change or revoke authority, who pays for repair, and one failure that still remains; keep it a proposed design until executed. |
 | **Compare two accounts of individuality** | Philosophy of biology, theoretical biology, information theory | One worked case identifying the accounts, their criteria and the observations each needs. | Explain whether they disagree or answer different questions; name an observation that could resolve a genuine disagreement. |
 | **Reconstruct a physical reference result** | Ecology, mathematical biology, nonequilibrium physics | A short derivation or reproducible reconstruction of one result in the [linked literature](docs/references.md), with its assumptions and comparator. | Separate what is already established from one proposed extension; include a condition that would reject the extension. |
 | **Design a history or aging intervention** | Information theory, regeneration, life-history research | A specified regulatory state or correlation to disrupt, an outcome and a comparison under the same present environment. | Show how the intervention distinguishes function-bearing history from ancestry, and account for erasure, repair and rebuilding costs. |

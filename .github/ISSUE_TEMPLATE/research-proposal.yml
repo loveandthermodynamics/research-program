@@ -34,3 +34,10 @@ body:
       description: Which competing explanation or negative result would narrow the claim?
     validations:
       required: true
+  - type: textarea
+    id: constitutional-mechanism
+    attributes:
+      label: Constitutional mechanism, if relevant
+      description: For a COSSHAIC or collective case, name who authorizes the act, what bounded evidence can challenge it, and which subsequent work, repair or funded support must change. State the source commitment or alternative architecture; mark unrelated physical work not applicable. See docs/cosshaic.md.
+    validations:
+      required: false

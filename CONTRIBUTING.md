@@ -24,6 +24,8 @@ For work depending on the private Hestia runtime, first arrange implementation a
 
 ## Evidence and interpretation
 
+For human–AI or collective proposals, identify which [COSSHAIC constitutional mechanism](docs/cosshaic.md) is involved, if any. Follow authority, scoped evidence, challenge and repair into the actual act or resource commitment. Distinguish that chain from agent calibration, a signed record or an assertion of collective identity. State which constitutional protections are held adequate and equal across comparators. These fields are not mandatory for an unrelated chemical calculation; mark them not applicable with a reason.
+
 Keep these distinctions explicit:
 
 - Formation from dispersed components and maintenance of a prepared assembly.

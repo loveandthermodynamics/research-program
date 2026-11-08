@@ -6,6 +6,8 @@ This is the coordination directory for study proposals, implementations and evid
 
 ## Repository and material directory
 
+The [COSSHAIC guide](cosshaic.md) connects the constitutional starting points to their founding sources. It distinguishes Hestia's agent learning, Group Mind's collective cognition and the authority/resource conditions under which either could participate in an answerable collective. These are proposed mechanisms, not a completed constitutional system.
+
 | Resource | Role | Access and evidence status |
 | --- | --- | --- |
 | [loveandthermodynamics/research-program](https://github.com/loveandthermodynamics/research-program) | This coordination hub: questions, literature comparisons, study specifications and links to evidence. | Coordination documents and proposed contributions; implementation and historical evidence have separate homes. |
@@ -26,10 +28,12 @@ Add a repository here when its role and public or agreed access conditions are k
 | P-04 | 2 | **Differentiation and correlated failure.** Reconstruct a fair spatial/temporal/generalist comparison or test response diversity under a declared disturbance process. Explain which question the selected design answers. | Proposed; comparator and perturbations not specified. |
 | H-01 | 3 | **Feedback reaching learned state.** Produce a regression and trace distinguishing acknowledgment from a consequential learning update. | Proposed; requires agreed implementation access. |
 | H-02 | 3 | **Reflexive-learning prerequisite.** Compare the full loop, an ablation and a competent independent-self baseline on forecasts of future mistakes. | Proposed; requires a verified harness and specified scoring. |
-| C-01 | 4 | **Care allocation and expanded capability.** Compare ordinary coordination, a contestable account and Hestia's additional mechanisms with matched conditions and independently measured outcomes. | Proposed; begin with a scenario and study specification. |
-| C-02 | 4–5 | **Recursive accountability and material dependence.** Trace a cooperative-to-association commitment or one resource cutoff, including how an inconvenient correction remains consequential. | Proposed; relationship and threat model not specified. |
+| C-01 | 4 | **Care allocation, constitutional consequence and expanded capability.** Compare ordinary coordination, a contestable account and Hestia's additional mechanisms. Declare mandate, bounded witness evidence, independent challenge and the authorized allocation/repair that changes. Keep constitutional protections, information and funding adequate and matched; independently measure care, burdens and new capacities. | Proposed; begin with a scenario and study specification. |
+| C-02 | 4–5 | **Recursive authority and material dependence.** Trace an authorized cooperative-to-association commitment or one host/funder conflict. Follow independent challenge, qualifications and corrections into the parent's act or funded support, including changes of representation and the limits of continued obligations. | Proposed; relationship and threat model not specified. |
 
 These hyphenated identifiers organize proposed work within this hub. Historical archive identifiers such as **P01** are distinct from proposed tasks such as **P-01**; an earlier result is not silently assigned to or substituted for a proposed deliverable.
+
+C-01 and C-02 operationalize existing COSSHAIC commitments; their descriptions do not report new outcomes. A short authority/evidence/correction-to-action trace is a useful first deliverable. Split a larger design into linked bounded studies before execution. A baseline match, missing capacity gain, suppressed challenge, displaced harm or unchanged subsequent act must count against the corresponding claim.
 
 ## Registering and updating a study
 
