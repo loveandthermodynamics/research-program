@@ -68,6 +68,20 @@ The subjects may change through participation. Endosymbiosis is a precedent for 
 
 **First work:** define a care-allocation scenario and compare ordinary coordination, a contestable account and Hestia's additional learning mechanisms under matched information, authority, resources and constitutional protections. Measure care delivered, unequal burden, privacy, correction costs and newly enabled capabilities. Simulations can examine mechanisms; human benefit requires a separate study with the people concerned.
 
+### Can shared care develop from coercive coordination?
+
+The rota currently starts with an adopted care rule. Consider an earlier arrangement governed by orders and penalties: Leila is recorded as absent, Jo as available labour. Leila's care for Sam and the cost of Jo's extra work disappear from the shared account, although care already exists between particular people.
+
+The [Group Mind proposal](https://medium.com/love-and-thermodynamics/chapter-11-the-compression-problem-of-the-group-mind-f08e961ff66d) suggests AI might lower the cost of maintaining particular, correctable accounts of who did what, for whom, at what cost, and how those involved actually respond. Could this help existing concern become collective self-regulation—changing what the group notices and values, whose correction or refusal counts, and which commitments people choose together?
+
+Development here concerns the whole experience: inquiry, perception, analysis, construal, evaluation, intention and conduct. Identical outward cooperation could express obedience, expedience or shared care.
+
+Better accounts alone do not revise duties, establish legitimate authority or pay for cover. The proposed transition requires changed decisions, funded relief for Jo and continuing support for Sam, with privacy protected and independently supplied answers able to change the outcome. The same knowledge could instead enable more effective personalized control; that is an adverse outcome to test.
+
+This is an open developmental hypothesis about what is lost when people are reduced to roles or totals, not a derived stage sequence or an observed transition. It asks how a group might acquire capacities the existing case assumes. The proposed allocation comparison, [C-01](https://github.com/loveandthermodynamics/research-program/blob/main/docs/experiments.md), separately compares mechanisms within arrangements whose information, authority, resources and constitutional protections are matched.
+
+[Discuss this developmental question](https://community.loveandthermodynamics.com/t/research-record-collective-agency-and-care/21).
+
 ## 5. The material conditions of an independent answer
 
 A host may protect encrypted memory while controlling continued execution. An institution may permit dissent while controlling housing, care or income. Examine who controls replenishment, what follows refusal and whether appeal, migration or negotiated transition can work under scarcity.
