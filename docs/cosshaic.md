@@ -46,6 +46,8 @@ The study must also specify how representation can be changed or revoked, how pu
 
 ## Material support and limits on the host
 
+The [current project](../README.md#funding-and-control) is unfunded and run by Simon J. Hill. He can take its services offline, and the project has no charter or community governance yet. The arrangements below are proposals.
+
 Independent answers need viable support. A host can preserve encrypted records while retaining power over execution, updates, recovery or replenishment. Shared reserves and funded commitments therefore belong in the same causal account as privacy and correction.
 
 Tari has a proposed role in attributable commitments, selective disclosure and shared enforcement. A ledger alone cannot supply electricity, make private execution secure, establish an account's truth or ensure that a correction changes action. Resource rights, controllers, failure conditions and transitions must be specified and tested separately. Privacy, anonymous contribution and authority to represent a group are different claims.
@@ -56,11 +58,11 @@ The appendix also points to LivingHash's proposed machinery for authorized exami
 
 | Bounded question | Evidence needed | Existing route |
 | --- | --- | --- |
-| Does confidential evidence change an authorized allocation? | Mandate, disclosure permissions, independent challenge, revised work/support and actual repair costs, with care maintained. | [C-01 care comparison](experiments.md#proposed-starting-points) and the [cooperative case](https://community.loveandthermodynamics.com/t/starter-find-a-failure-in-the-cooperative-care-case/17). |
+| Does confidential evidence change an authorized allocation? | Mandate, disclosure permissions, independent challenge, revised work/support and actual repair costs, with care maintained. | [C-01 care comparison](experiments.md#c-01-ordinary-coordination-comparator) and the [cooperative case](https://community.loveandthermodynamics.com/t/starter-find-a-failure-in-the-cooperative-care-case/17). |
 | Can a collective revise its commitments through member and parent-level correction? | A prospective expectation, answer, authorized revision and propagated qualification; before/after capabilities of the group and participants. | [C-02 recursive accountability](experiments.md#proposed-starting-points). |
 | Does standing survive a host or funder disliking the answer? | A declared resource conflict, an independent challenge path and consequential correction through the relevant resource or hosting transition. | [Material-independence track](research-program.md#5-the-material-conditions-of-an-independent-answer). |
 
-These are **proposed studies**, not executed constitutional or human-benefit results. In the existing three-arm care comparison, every arm needs adequate information, authority, funding and constitutional protections. Compare ordinary coordination, structured contestable accounts and additional Hestia cognition without depriving the baseline of rights or context.
+These are **proposed studies**, not executed constitutional or human-benefit results. All three care arms share the adopted care rule, adequate information, decision authority, resources and constitutional protections. Compare competent human coordination, a structured contestable account, and that account with Hestia’s additional learning mechanisms.
 
 A matching or better ordinary arrangement, absent new capabilities, displaced harm, suppressed appeal or an unchanged subsequent action must count against the relevant mechanism or claimed scope. The [historical negative findings](https://github.com/loveandthermodynamics/research-experiments/blob/main/docs/interpreting-results.md) remain findings against their specific targets; chemical renewal and prediction accuracy do not validate constitutional authority or reciprocal development.
 

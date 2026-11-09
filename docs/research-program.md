@@ -66,7 +66,7 @@ COSSHAIC makes the authority behind this process part of the question. Specify w
 
 The subjects may change through participation. Endosymbiosis is a precedent for transformed individuality, not proof that integration preserves agency. Unitology, the Borg and Resident Evil are adversarial cases of a successful whole that consumes its constituents' possibilities. Physical efficiency cannot decide whose sacrifice is permissible; a new phenomenal subject is a separate claim.
 
-**First work:** define a care-allocation scenario and compare ordinary coordination, a contestable account and Hestia's additional learning mechanisms under matched information, authority, resources and constitutional protections. Measure care delivered, unequal burden, privacy, correction costs and newly enabled capabilities. Simulations can examine mechanisms; human benefit requires a separate study with the people concerned.
+**First work:** define a care-allocation scenario and compare competent human coordination, a structured contestable account, and that account with Hestia's additional learning mechanisms. Apply the same adopted care rule and match information, authority, resources and constitutional protections across all arms. Measure care delivered, unequal burden, privacy, correction costs and newly enabled capabilities. Simulations can examine mechanisms. Human benefit requires a separate study with the people concerned. [C-01 ordinary coordination comparator](experiments.md#c-01-ordinary-coordination-comparator)
 
 ### Can shared care develop from coercive coordination?
 

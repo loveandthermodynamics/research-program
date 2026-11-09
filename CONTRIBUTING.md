@@ -4,11 +4,13 @@
 
 The program welcomes strong alternatives, counterexamples, replications and negative outcomes alongside positive findings. A result that narrows a claim is useful when its method and limits remain inspectable.
 
+Contributions are voluntary. The program has no funding or budget for paid work. See [funding and control](README.md#funding-and-control).
+
 ## From a question to a contribution
 
 1. Read the relevant [research track](docs/research-program.md), check the [study directory](docs/experiments.md), and consult the [historical catalogue](https://github.com/loveandthermodynamics/research-experiments/blob/main/CATALOGUE.md) for related work and its limits.
 2. Propose a bounded question in a hub issue or the [research forum](README.md#discussion-and-research-records). Link the paper, case or study you would start from.
-3. Agree the deliverable, scope, contributor roles, access, credit and reuse terms, including any compensation, before substantial work. Contributors should be able to question the framing and priorities as well as supply answers.
+3. Agree the deliverable, scope, contributor roles, access, credit and reuse terms before substantial work. Contributors should be able to question the framing and priorities as well as supply answers.
 4. For an experiment, record the design and rejection conditions before outcome comparisons. Use the [template](docs/experiment-template.md), with fields marked not applicable where appropriate.
 5. Submit an inspectable record and link it from the directory. Separate the proposed method, completed work, findings and interpretation. Record review and replication as distinct events.
 

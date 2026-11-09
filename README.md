@@ -44,11 +44,17 @@ This hub coordinates the program and new contributions. The separate [research-e
 
 Standalone exploratory scripts are available for inspection under their retained source notices; the archive adds no new license. Full Hestia runtime code and bulk raw histories are not included. Runtime access and unresolved reuse terms are agreed separately.
 
+## Funding and control
+
+Love & Thermodynamics is a volunteer project with no current research funding or budget for paid contributions.
+
+[Simon J. Hill](https://www.linkedin.com/in/simonjhill) runs the project and can take its website, forum, GitHub repositories and private Hestia runtime offline. There is no charter or community governance yet.
+
 ## Discussion and research records
 
 The [Discourse research forum](https://community.loveandthermodynamics.com/) is the home for developing questions and interpreting work. Use this hub's [issue chooser](https://github.com/loveandthermodynamics/research-program/issues/new/choose) for a defined contribution and pull requests for proposed document changes. Link a discussion to its study record so the question, method, artifacts and interpretation remain connected.
 
-Before substantial work, agree scope, credit, access and reuse terms, including any compensation. A reference or a well-specified question is enough to begin.
+Before substantial work, agree scope, credit, access and reuse terms. A reference or a well-specified question is enough to begin.
 
 ## Three tasks ready for a first response
 

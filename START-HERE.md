@@ -36,6 +36,6 @@ A short proposal is enough. There is no need to commit to a larger study before 
 
 ## Before substantial work
 
-Use [Contributing](CONTRIBUTING.md) to agree scope, credit, access, reuse and any compensation. Public exploratory scripts retain their original rights notices without a new license. Full Hestia runtime access is agreed separately; a public discussion does not confer access to private implementation or research records.
+These are volunteer contributions to an [unfunded program](README.md#funding-and-control). Use [Contributing](CONTRIBUTING.md) to agree scope, credit, access and reuse terms. Public exploratory scripts retain their original rights notices without a new license. Full Hestia runtime access is agreed separately; a public discussion does not confer access to private implementation or research records.
 
 For a proposed experiment, copy the [experiment template](docs/experiment-template.md). Record its initial status as proposed, link the discussion and register it in the directory when its scope and owner are agreed.

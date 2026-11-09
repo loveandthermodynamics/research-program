@@ -28,12 +28,18 @@ Add a repository here when its role and public or agreed access conditions are k
 | P-04 | 2 | **Differentiation and correlated failure.** Reconstruct a fair spatial/temporal/generalist comparison or test response diversity under a declared disturbance process. Explain which question the selected design answers. | Proposed; comparator and perturbations not specified. |
 | H-01 | 3 | **Feedback reaching learned state.** Produce a regression and trace distinguishing acknowledgment from a consequential learning update. | Proposed; requires agreed implementation access. |
 | H-02 | 3 | **Reflexive-learning prerequisite.** Compare the full loop, an ablation and a competent independent-self baseline on forecasts of future mistakes. | Proposed; requires a verified harness and specified scoring. |
-| C-01 | 4 | **Care allocation, constitutional consequence and expanded capability.** Compare ordinary coordination, a contestable account and Hestia's additional mechanisms. Declare mandate, bounded witness evidence, independent challenge and the authorized allocation/repair that changes. Keep constitutional protections, information and funding adequate and matched; independently measure care, burdens and new capacities. | Proposed; begin with a scenario and study specification. |
+| C-01 | 4 | **Care allocation, constitutional consequence and expanded capability.** Compare [competent human coordination](#c-01-ordinary-coordination-comparator), a structured contestable account, and that account with Hestia's additional learning mechanisms. Declare mandate, bounded witness evidence, independent challenge and the authorized allocation/repair that changes. Independently measure care, burdens and new capacities. | Proposed; begin with a scenario and study specification. |
 | C-02 | 4–5 | **Recursive authority and material dependence.** Trace an authorized cooperative-to-association commitment or one host/funder conflict. Follow independent challenge, qualifications and corrections into the parent's act or funded support, including changes of representation and the limits of continued obligations. | Proposed; relationship and threat model not specified. |
 
 These hyphenated identifiers organize proposed work within this hub. Historical archive identifiers such as **P01** are distinct from proposed tasks such as **P-01**; an earlier result is not silently assigned to or substituted for a proposed deliverable.
 
 C-01 and C-02 operationalize existing COSSHAIC commitments; their descriptions do not report new outcomes. A short authority/evidence/correction-to-action trace is a useful first deliverable. Split a larger design into linked bounded studies before execution. A baseline match, missing capacity gain, suppressed challenge, displaced harm or unchanged subsequent act must count against the corresponding claim.
+
+### C-01 ordinary coordination comparator
+
+In the human-run arm, an authorized coordinator applies the adopted care-leave rule to excuse Leila’s missed repairs and uses an ordinary rota and hours ledger to credit Jo’s cover and schedule equivalent relief. The coordinator can draw on the shared respite budget to keep Sam’s care going and records any care or repairs the available budget and staffing cannot cover. Members can challenge the allocation through the independent process available in every arm.
+
+Give all three arms the same care rule, relevant information, mandate, decision authority and opportunities to act, staffing, time and budget. Match privacy, refusal and independent challenge protections. Compare what a structured contestable account adds to competent ordinary coordination, then what Hestia’s additional learning mechanisms add to that account.
 
 ## Registering and updating a study
 

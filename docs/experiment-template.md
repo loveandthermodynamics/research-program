@@ -13,7 +13,7 @@ Copy this document for a proposed study. Fill in the design before outcome compa
 - Owner and contributor roles, as agreed:
 - Related issue, forum topic and prior study IDs:
 - Implementation or model repository, exact revision and access conditions:
-- Scope, credit, access, reuse and compensation terms agreed for this contribution:
+- Scope, credit, access and reuse terms agreed for this contribution:
 
 ## Question, prior art and claim
 
