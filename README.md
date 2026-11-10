@@ -56,6 +56,10 @@ The [Discourse research forum](https://community.loveandthermodynamics.com/) is 
 
 Before substantial work, agree scope, credit, access and reuse terms. A reference or a well-specified question is enough to begin.
 
+## Reuse
+
+The original project prose in the [research program guide](docs/research-program.md) and [COSSHAIC guide](docs/cosshaic.md) is marked for noncommercial reuse with attribution. Check individual files for their terms. The project’s [reuse policy](https://loveandthermodynamics.com/reuse) explains how to request commercial permission.
+
 ## Three tasks ready for a first response
 
 - [Compare two accounts of individuality on one case](https://github.com/loveandthermodynamics/research-program/issues/1).

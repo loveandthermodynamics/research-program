@@ -2,6 +2,8 @@
 
 [Research home](../README.md) · [Five tracks](research-program.md) · [Studies and evidence](experiments.md) · [Choose a contribution](../START-HERE.md)
 
+The original project prose in this guide is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). Credit Simon Hill and see the [project reuse policy](https://loveandthermodynamics.com/reuse) for commercial permissions.
+
 COSSHAIC is the proposed **constitutional operating system for a symbiotic human–AI civilization**. Within Love & Thermodynamics, it asks how people and AI agents could form groups with purposes, commitments and capacities of their own, while their participants become more capable of living, judging and acting. The collective and its members may change identity through that development.
 
 The constitutional question is what makes those new powers legitimate and revisable. Who may authorize an AI recommendation to become a collective act? Who can challenge the account behind it, change a rule or withdraw a representative's mandate? What resources make a promise of care real? The proposal connects those questions to social learning and to infrastructure that can constrain the host as well as the participant.

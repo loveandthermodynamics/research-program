@@ -2,6 +2,8 @@
 
 [Home](../README.md) · [Start here](../START-HERE.md) · [Experiments](experiments.md) · [References](references.md)
 
+The original project prose in this guide is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). Credit Simon Hill and see the [project reuse policy](https://loveandthermodynamics.com/reuse) for commercial permissions.
+
 This program develops the questions in [An Invitation to Research Human–AI Symbiosis](https://medium.com/p/144488662910). Its physical and cognitive studies have different methods. Their connecting question is how organization can sustain and generate further individuality, and when that development benefits participants.
 
 The intended sequence is generative: reciprocal processes sustain differentiated organization; cooperation enables capacities unavailable to the participants alone; those capacities make further differences, relationships and organizations possible. Which subjects persist or emerge is itself part of the inquiry.
