@@ -36,6 +36,8 @@ Generate aging through damage, repair machinery and maintenance demands. Compare
 
 Response diversity raises a related question about common-mode failure. Declare the disturbance process and measure continued function. Different labels can conceal correlated vulnerability. Robustness under variability and benefiting from variability are different claims.
 
+The [P-04 measurement note](sustained-differentiated-function.md#a-comparison-for-p-04) proposes comparing how much differentiated function persists over a common horizon, with separate records of resource use and recovery.
+
 The further generative question is whether the resulting organization enables additional useful differences and new individuals. A fixed menu of specialist types cannot establish open-ended development. Investigate expandable inherited capabilities and ecological feedback. The strongest conjecture is that biodiversity and complexity might arise from physical dynamics across scales, perhaps through a variational principle, without adding a reward for diversity. Specify the functional, dynamics and allowed variations; action, entropy production and supplied work are different quantities.
 
 **First work:** build a claim-and-prior-art matrix and reconstruct a relevant maintenance or division-of-labor result. A functional-history intervention or common-mode-failure analysis is another bounded entry point.

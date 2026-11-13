@@ -1,0 +1,27 @@
+# Sustaining differentiated function over time
+
+Research note for [P-04](experiments.md#proposed-starting-points), with a proposed application to [C-01](experiments.md#c-01-ordinary-coordination-comparator). This is a measurement proposal. Both studies are still at the design stage.
+
+The original project prose in this note is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). Credit Simon Hill and see the [project reuse policy](https://loveandthermodynamics.com/reuse) for commercial permissions.
+
+## What the fire comparison tells us
+
+For a fixed stock of fuel that reaches the same chemical end state, burning faster changes the rate of energy release. Real fires and decomposition can leave different products, so specify the endpoints before comparing them. A forest also receives a continuing flow of sunlight. Bare ground can absorb sunlight and reemit energy as heat. A forest uses some of that flow to renew organisms, relationships and the conditions that allow distinct forms of life to persist.
+
+Tilman and Downing found that more diverse grassland plots better resisted and recovered from a drought in terms of primary productivity. Schneider and Kay interpreted radiative and temperature differences as evidence about how ecosystems degrade incoming solar exergy, the portion available to do work relative to a reference environment. Maes and colleagues found that some early successional plantations scored higher on dissipation indicators than late successional forests. These studies motivate measuring sustained function directly. Productivity, diversity and energy degradation each tell us something different. [Tilman and Downing, 1994](https://doi.org/10.1038/367363a0) · [Schneider and Kay, 1994](https://doi.org/10.1016/0895-7177(94)90188-0) · [Maes et al., 2011](https://doi.org/10.1016/j.ecolmodel.2011.08.028)
+
+## A comparison for P-04
+
+Define a focal capability `C(t)` before the comparison. In a physical model, it could be an indicator that both carbon fixation and nitrogen fixation meet preset output thresholds over a window long enough for a generalist to switch tasks. Record separate output trajectories and recovery times so the indicator cannot hide the loss of one function. Compare spatial specialization with a competent generalist that switches in time. Give both the same resource envelope and disturbance schedule, and count transport, repair and rebuilding.
+
+Over a common horizon, report the time integral of capability, `Q = ∫ C(t) dt`, and the total resource input separately. Where energy is the relevant input, `Q / E` describes the integrated capability delivered per unit of supplied energy. The ratio can be identical for a short-lived and a long-lived system running at the same capacity and power. Use the common horizon and the underlying trajectories to assess persistence, including failure and recovery. Specify the boundary, initial stocks, imports and losses. Count an input such as exergy consistently across both designs if that is the quantity being compared.
+
+If specialization produces no greater sustained function at comparable cost, or its advantage disappears when rebuilding and correlated failures are counted, the proposed advantage fails in that comparison. An advantage would establish a result for the tested functions and conditions. The emergence of new viable functions or lineages calls for a further test. [Research program, track 2](research-program.md#2-differentiation-functional-history-aging-and-generative-biodiversity)
+
+## An institutional application for C-01
+
+Tononi, Sporns and Edelman's 1994 measure describes statistical dependence between subsets and their complements. An exploratory use in C-01 could compare coded patterns of distinct member judgments and coordinated decisions across comparable episodes. Two people responding to the same changing instruction can share information even when neither influences the other. Compare against shared-input controls and specify the observations, time windows and group boundaries before scoring. The measure concerns recorded activity. IIT concerns the physical causal structure proposed to support a subject of experience. [Tononi, Sporns and Edelman, 1994](https://doi.org/10.1073/pnas.91.11.5033) · [IIT 4.0](https://doi.org/10.1371/journal.pcbi.1011465)
+
+In the existing C-01 comparison, the substantive evidence would be whether a warranted challenge changes an authorized allocation and the care actually delivered. In the worked scenario, look for continuity of Sam's care and for Jo to receive the agreed relief. A later case after a role change could test whether participants can exercise new capacities independently and whether the group can still act on them. Track time, attention, care, money and compute as separate inputs and record who bears them. A higher statistical score with unchanged decisions, no durable gain for members, or a displaced burden cannot establish reciprocal development. [C-01 comparators](experiments.md#c-01-ordinary-coordination-comparator)
+
+The time integral compares histories. The [Lagrangian conjecture](https://medium.com/love-and-thermodynamics/appendix-soul-as-negentropy-and-the-variational-principle-60eb22c6994a) asks a further question about which histories physical dynamics favor. Answering it would require specifying the functional, the allowed variations and the dynamics that would make the principle predictive.
