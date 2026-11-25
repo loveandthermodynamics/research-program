@@ -36,6 +36,6 @@ A short proposal is enough. There is no need to commit to a larger study before 
 
 ## Before substantial work
 
-These are volunteer contributions to an [unfunded program](README.md#funding-and-control). Use [Contributing](CONTRIBUTING.md) to agree scope, credit, access and reuse terms. Public exploratory scripts retain their original rights notices without a new license. Full Hestia runtime access is agreed separately; a public discussion does not confer access to private implementation or research records.
+These are volunteer contributions to an [unfunded program](README.md#funding-and-control). For new collaborative work, use [Contributing](CONTRIBUTING.md) to agree scope, credit and access. The [archive licenses](https://github.com/loveandthermodynamics/research-experiments/blob/main/NOTICE.md) cover project-owned public experiment code (MIT) and public research data and result tables (CC BY 4.0). Access to the full private Hestia runtime requires a separate agreement.
 
 For a proposed experiment, copy the [experiment template](docs/experiment-template.md). Record its initial status as proposed, link the discussion and register it in the directory when its scope and owner are agreed.

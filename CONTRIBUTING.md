@@ -20,7 +20,7 @@ Use an issue for a defined task, a forum topic for discussion and a pull request
 
 For a literature contribution, provide the exact reference, the result being used, its assumptions and what it leaves unresolved. Existing explanations should become foundations. A new combination of familiar ideas is a proposal to evaluate, not an automatic claim of novelty.
 
-Standalone exploratory scripts and curated outputs can be inspected in the separate [research-experiments archive](https://github.com/loveandthermodynamics/research-experiments). Read its [reproduction guide](https://github.com/loveandthermodynamics/research-experiments/blob/main/REPRODUCING.md) and [retained-rights notice](https://github.com/loveandthermodynamics/research-experiments/blob/main/NOTICE.md). Existing source notices remain in place, no new license is added, and unresolved reuse terms require agreement.
+You can use and adapt the archive’s project-owned public experiment code under MIT and its public research data and result tables under CC BY 4.0. See the [licenses and sample credit](https://github.com/loveandthermodynamics/research-experiments/blob/main/NOTICE.md) and [questions you can reproduce from public files](https://github.com/loveandthermodynamics/research-experiments/blob/main/REPRODUCING.md#what-you-can-reproduce-from-the-public-archive).
 
 For work depending on the private Hestia runtime, first arrange implementation access and agree which artifacts can be shared. Public reports should contain only material authorized for public release; describe access-dependent evidence accurately rather than implying that the exploratory scripts include the full runtime or bulk raw histories.
 
