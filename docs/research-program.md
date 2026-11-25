@@ -6,6 +6,18 @@ The original project prose in this guide is licensed under [Creative Commons Att
 
 This program develops the questions in [An Invitation to Research Human–AI Symbiosis](https://medium.com/p/144488662910). Its physical and cognitive studies have different methods. Their connecting question is how organization can sustain and generate further individuality, and when that development benefits participants.
 
+## Metagration at a singularity limit
+
+> When a way of living reaches a limit its participants cannot resolve separately, under what conditions do they become a new “we” that can act at the scale of the problem? What can its members then become or do that was beyond them before, and how can they change what the “we” does in their name?
+
+**Hypothesis.** When the participants’ existing way of organizing can no longer sustain something they depend on, their relationship can itself become a new individual. We call this transition *metagration at a singularity limit*. The limit is specific to a way of organizing. In [The We and the Singularity of Scale](https://medium.com/love-and-thermodynamics/the-we-and-the-singularity-of-scale-6d817d7aa1c8), the proposed social threshold is distinct from the finite-time singularity in the urban growth model.
+
+Consider two communities drawing from a drying river. What observation would show that separate decisions can no longer keep both communities and the river going? Identify that threshold before looking for a new “we.” Compare what happens on either side of it, including cases where the communities adapt separately or cooperate for a season. Evidence for metagration would be a watershed commitment neither community could sustain alone, with people and resources to carry it through changes of leadership. Evidence for reciprocal development would be a new capacity in each community and a decision either could change when its needs were overlooked. If the same outcome was achievable under the old arrangements, the proposed role of the limit weakens. If the new body survives by shifting costs downstream, its persistence and its capacity for care call for different judgments.
+
+[Examine the individuation research record](https://community.loveandthermodynamics.com/t/research-record-individuation-and-paid-regeneration/18) or [bring a case from a group that faced a shared limit](https://community.loveandthermodynamics.com/t/when-a-shared-limit-changes-what-a-group-does/30).
+
+## How the five research tracks fit together
+
 The intended sequence is generative: reciprocal processes sustain differentiated organization; cooperation enables capacities unavailable to the participants alone; those capacities make further differences, relationships and organizations possible. Which subjects persist or emerge is itself part of the inquiry.
 
 The constitutional architecture is [COSSHAIC](cosshaic.md), introduced in its [founding account](https://medium.com/love-and-thermodynamics/a-constitutional-operating-system-for-a-symbiotic-human-ai-civilization-48b1a99bf826) and [protected-selves appendix](https://metalaureate.medium.com/appendix-to-a-constitutional-operating-system-for-a-symbiotic-human-ai-civilization-116d158ecedc). Hestia investigates individual cognition; Group Mind investigates a learning collective; COSSHAIC connects their proposed development to legitimate authority, independent challenge and material support. Thumos pursues a distinct, complementary developmental protocol. These relationships do not establish a released integrated platform.
