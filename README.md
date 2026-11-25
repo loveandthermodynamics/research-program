@@ -42,7 +42,7 @@ The immediate physical task is a claim-and-prior-art matrix and reconstruction o
 
 This hub coordinates the program and new contributions. The separate [research-experiments archive](https://github.com/loveandthermodynamics/research-experiments) records historical calculations, model studies, implementation checks and proposed designs, with their methods and limits. Its [catalogue](https://github.com/loveandthermodynamics/research-experiments/blob/main/CATALOGUE.md) distinguishes evidence records from completed experiments; its [reproduction guide](https://github.com/loveandthermodynamics/research-experiments/blob/main/REPRODUCING.md) explains what can be checked from the public files.
 
-Standalone exploratory scripts are available for inspection under their retained source notices; the archive adds no new license. Full Hestia runtime code and bulk raw histories are not included. Runtime access and unresolved reuse terms are agreed separately.
+You can reuse the archive’s project-owned public experiment code under MIT and its public data and result tables under CC BY 4.0. The full Hestia runtime is private. Later physical studies publish aggregate results and omit bulk histories. [Archive licenses](https://github.com/loveandthermodynamics/research-experiments/blob/main/NOTICE.md) · [Questions you can reproduce from public files](https://github.com/loveandthermodynamics/research-experiments/blob/main/REPRODUCING.md#what-you-can-reproduce-from-the-public-archive).
 
 ## Funding and control
 
@@ -54,7 +54,7 @@ Love & Thermodynamics is a volunteer project with no current research funding or
 
 The [Discourse research forum](https://community.loveandthermodynamics.com/) is the home for developing questions and interpreting work. Use this hub's [issue chooser](https://github.com/loveandthermodynamics/research-program/issues/new/choose) for a defined contribution and pull requests for proposed document changes. Link a discussion to its study record so the question, method, artifacts and interpretation remain connected.
 
-Before substantial work, agree scope, credit, access and reuse terms. A reference or a well-specified question is enough to begin.
+For a new collaboration, agree scope, credit, access and terms for the work you produce together. A reference or a well-specified question is enough to begin.
 
 ## Reuse
 
